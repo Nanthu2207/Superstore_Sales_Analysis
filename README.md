@@ -51,7 +51,6 @@ The dataset contains the following columns:
 2. Open the dashboard file (`.pbix` for Power BI ).
 3. Interact with the dashboard by filtering and exploring different dimensions of the data (e.g., by segment, region, or product).
 
-
 ## License
 This project is open source and available under the [MIT License](LICENSE).
 
